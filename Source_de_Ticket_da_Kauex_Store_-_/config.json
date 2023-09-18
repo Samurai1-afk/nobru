@@ -1,0 +1,15 @@
+{
+    "client": {
+        "token": "token do bot",
+        "embed": "#2f3136",
+        "logs": "logs do ticket",
+        "owner_id": "id do dono"
+    },
+    "ticket": {
+        "category_id": "categoria onde fica os ticket",
+        "category_call_id": "categoria onde vai abrir a call",
+        "support_role": "cargo de suporte para ver o ticket",
+        "chave_pix": "Não Disponível",
+        "image_url": "https://cdn.discordapp.com/attachments/962835333232345148/1095885658205199/TICKET.png"
+    }
+}
